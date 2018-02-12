@@ -1,5 +1,5 @@
 + Python script for deleting older temporary downloads
 + Macros in LibreOffice for analysis of personal finance, written in Python?
 + Android App for tracking vehicle transfers
-+ Figure out how to work git from command line
-+ Figure out how to sign commits from command line
+- Figure out how to work git from command line (This is done!)
++ Figure out how to sign commits from command line (Maybe done?)
