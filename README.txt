@@ -1,1 +1,0 @@
-This is a testing repo to try out the features of Git and Github.
