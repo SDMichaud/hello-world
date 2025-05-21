@@ -3,3 +3,4 @@
 + Android App for tracking vehicle transfers
 - Figure out how to work git from command line (This is done!)
 + Figure out how to sign commits from command line (Maybe done?)
++ Test Github integration with VS Code
